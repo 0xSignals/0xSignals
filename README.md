@@ -1,4 +1,5 @@
-### Hi there 👋
+0xSignals is a crypto project aimed to store trading signals in the Ethereum Blockchain via 0xS coin transactions between 0x Signals.
+Blockchain timestamp undoubtly registers the signal emitting time which enables the investors to definetley track the succes record of any 0x account which emits trading signals either manually or Automatically.
 
 <!--
 **0xSignals/0xSignals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
