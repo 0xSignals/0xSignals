@@ -1,4 +1,4 @@
-0xSignals is a crypto project aimed to store trading signals in the Ethereum Blockchain via 0xS coin transactions between 0x Signals.
+0xSignals is a crypto project aimed to store trading signals in the Ethereum Blockchain via 0xS coin transactions between 0x Accounts.
 Blockchain timestamp undoubtly registers the signal emitting time which enables the investors to definetley track the succes record of any 0x account which emits trading signals either manually or Automatically.
 
 <!--
